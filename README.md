@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ankita 👋
 
-<!--
-**ankitaacharya22/ankitaacharya22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | MBA in Business Analytics
+🛠️ Skills: SQL · Python · Power BI · Tableau · Excel · SAP
+📊 I turn messy business data into clear decisions
 
-Here are some ideas to get you started:
+## 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/ankita-acharya22/
+- Email: ankitaacharya202@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+_(coming soon — building these next)_
+
+
