@@ -11,6 +11,7 @@
 - Email: ankitaacharya202@gmail.com
 
 ## 📌 Featured Projects
-_(coming soon — building these next)_
+## 📌 Featured Projects
+- 🛍️ **[Retail Sales & Delivery Performance Analysis](https://github.com/ankitaacharya22/retail-sales-analysis-olist)** — Analyzed 99K+ e-commerce orders using Python & Pandas; found 6.8% late delivery rate and identified top revenue-driving categories
 
 
